@@ -6,7 +6,10 @@ A simple TODO app which contains some bugs. Perfect for interviewing a potential
 
 - Open in VS Code
 - Install Flutter extension https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
-- Install the Flutter SDK (VS code prompt or [Flutter Doc](https://docs.flutter.dev/get-started/install/macos/mobile-ios))
+- Install the Flutter SDK (multiple options)
+  - VS code prompt 
+  - [Flutter Doc](https://docs.flutter.dev/get-started/install/macos/mobile-ios)
+  - `mise use`
 
 ## XCode
 
